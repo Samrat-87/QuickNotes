@@ -5,38 +5,38 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1zzNiCZeXPVtB4xMFYl1wOuH8qt7cG9sB">
-    <img alt="Download APK" src="https://img.shields.io/badge/Download%20APK-1a73e8?style=for-the-badge&logo=android&logoColor=white" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1zzNiCZeXPVtB4xMFYl1wOuH8qt7cG9sB" target="_blank">
+    <img alt="Download APK" src="https://img.shields.io/badge/Download%20APK-1a73e8?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://samratsamanta.me/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" target="_blank">
+  <a href="https://samratsamanta.me/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/samratsamanta45/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/samratsamanta45/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/samrat-samanta/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/samrat-samanta/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:samratsamanta018@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:samratsamanta018@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://docs.expo.dev/versions/v54.0.0/">
-    <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" target="_blank">
+  <a href="https://docs.expo.dev/versions/v54.0.0/" target="_blank">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white">
   </a>
-  <a href="https://react.dev/">
-    <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" target="_blank">
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB">
   </a>
-  <a href="https://reactnative.dev/">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?style=flat&logo=react&logoColor=61DAFB" target="_blank">
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?style=flat&logo=react&logoColor=61DAFB">
   </a>
-  <a href="https://github.com/react-native-async-storage/async-storage">
-    <img alt="AsyncStorage" src="https://img.shields.io/badge/AsyncStorage-2b2d42?style=flat&logo=databricks&logoColor=white" target="_blank">
+  <a href="https://github.com/react-native-async-storage/async-storage" target="_blank">
+    <img alt="AsyncStorage" src="https://img.shields.io/badge/AsyncStorage-2b2d42?style=flat&logo=databricks&logoColor=white">
   </a>
 </p>
 
