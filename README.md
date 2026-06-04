@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1zzNiCZeXPVtB4xMFYl1wOuH8qt7cG9sB" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Samrat-87/QuickNotes/releases/download/apk/quick.notes.apk" target="_blank" rel="noopener noreferrer">
     <img alt="Download APK" src="https://img.shields.io/badge/Download%20APK-1a73e8?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
@@ -83,6 +83,6 @@ src/
 
 Use the button at the top or this direct link:
 
-<a href="https://drive.google.com/uc?export=download&id=1zzNiCZeXPVtB4xMFYl1wOuH8qt7cG9sB" target="_blank" rel="noopener noreferrer">
-  https://drive.google.com/uc?export=download&id=1zzNiCZeXPVtB4xMFYl1wOuH8qt7cG9sB
+<a href="https://github.com/Samrat-87/QuickNotes/releases/download/apk/quick.notes.apk" target="_blank" rel="noopener noreferrer">
+  Download Here 👌
 </a>
